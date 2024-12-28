@@ -1,0 +1,3 @@
+/home/evqovv/code/modern_cpp/e_stl/build/e_stl/CMakeFiles/e_stl.dir
+/home/evqovv/code/modern_cpp/e_stl/build/e_stl/CMakeFiles/edit_cache.dir
+/home/evqovv/code/modern_cpp/e_stl/build/e_stl/CMakeFiles/rebuild_cache.dir
