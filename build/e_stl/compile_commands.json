@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/evqovv/code/modern_cpp/e_stl/build/e_stl",
-  "command": "/home/evqovv/llvm-toolchain/bin/clang++ -I/home/evqovv/fast_io/include -I/home/evqovv/code/modern_cpp/e_stl/include  -std=c++23 -o CMakeFiles/e_stl.dir/main.cpp.o -c /home/evqovv/code/modern_cpp/e_stl/main.cpp",
-  "file": "/home/evqovv/code/modern_cpp/e_stl/main.cpp",
-  "output": "CMakeFiles/e_stl.dir/main.cpp.o"
-}
-]
